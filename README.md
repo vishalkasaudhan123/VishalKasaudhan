@@ -191,11 +191,7 @@ Key areas:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkasaudhan123&show_icons=true&theme=tokyonight&hide_border=true" alt="Vishal's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkasaudhan123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalkasaudhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishal's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -210,11 +206,7 @@ Key areas:
   <img src="https://github-profile-trophy.vercel.app/?username=vishalkasaudhan123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
-
 ## 📚 Currently Learning
-
-```text
 Java
   ↓
 Spring Boot
@@ -230,7 +222,6 @@ Kubernetes
 AWS
   ↓
 Generative AI
-```
 
 I'm continuously improving my knowledge of backend development, cloud technologies, distributed systems, and AI.
 
