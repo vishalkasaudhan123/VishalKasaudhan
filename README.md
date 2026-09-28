@@ -188,23 +188,24 @@ Key areas:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkasaudhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishal's GitHub Stats" />
+  <a href="https://github.com/vishalkasaudhan123">
+    <img src="https://img.shields.io/github/followers/vishalkasaudhan123?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/vishalkasaudhan123?tab=repositories">
+    <img src="https://img.shields.io/github/stars/vishalkasaudhan123?label=Stars&style=for-the-badge" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/vishalkasaudhan123">
+    <img src="https://img.shields.io/github/commit-activity/y/vishalkasaudhan123?style=for-the-badge" alt="GitHub Commit Activity" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkasaudhan123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <strong>Java Developer • Spring Boot • Microservices • REST APIs • React • MySQL</strong>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalkasaudhan123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ## 📚 Currently Learning
 Java
